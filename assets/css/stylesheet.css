@@ -1,0 +1,17 @@
+#este{
+  display: flex;
+  flex: 50%;
+}
+
+#nota, #esse{
+  color: white;
+}
+
+.copyright{
+  text-align: right;
+}
+
+.main{
+  text-align: justify;
+  align-items: center;
+}
